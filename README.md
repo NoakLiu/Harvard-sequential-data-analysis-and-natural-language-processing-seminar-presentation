@@ -1,0 +1,1 @@
+This is a project completed in Harvard Research Online Seminar, we implement POS Tagging by PyTorch from bottom to up.
