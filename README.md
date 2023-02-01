@@ -1,1 +1,1 @@
-This is a project completed in Harvard Research Online Seminar, we implement POS Tagging by PyTorch from bottom to up.
+This is a project completed in Harvard Research Online Seminar, we implement POS Tagging by PyTorch from bottom to up, under the direction of Professor [Pavlos Protopapas](https://iacs.seas.harvard.edu/people/pavlos-protopapas).
